@@ -37,7 +37,7 @@ export const Navbar = () => {
             <div className=''>
 
                 <IconButton>
-                    <Badge color='secondary' badgeContent = {3}>
+                    <Badge color='secondary' badgeContent = {5}>
                         <ShoppingCartIcon sx = {{fontSize : "1.5rem"}}/>
                     </Badge>
                 </IconButton>
